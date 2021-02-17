@@ -1,4 +1,6 @@
-### Hi there 👋
+# Simone Schneeberg
+
+### 💻 [Portfolio](http://sschneeberg.com) 🔗 [LinkedIn](https://linkedin.com/in/simone-schneeberg) 📄 [Resume](http://www.sschneeberg.com/resume)
 
 <!--
 **sschneeberg/sschneeberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
