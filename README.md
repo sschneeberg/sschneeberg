@@ -1,7 +1,7 @@
 
-# <center>Simone Schneeberg</center>
+# <div align='center'>Simone Schneeberg</div> #
 
- <center> 💻 [Portfolio](http://sschneeberg.com) 🔗 [LinkedIn](https://linkedin.com/in/simone-schneeberg) 📄 [Resume](http://www.sschneeberg.com/resume) </center>
+ ### <div align='center'> 💻 [Portfolio](http://sschneeberg.com) 🔗 [LinkedIn](https://linkedin.com/in/simone-schneeberg) 📄 [Resume](http://www.sschneeberg.com/resume) </div> ###
 
 <!--
 **sschneeberg/sschneeberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
