@@ -1,5 +1,5 @@
 <div align='center'>
- Simone Schneeberg
+ ### Simone Schneeberg
 
 ### 💻 [Portfolio](http://sschneeberg.com) 🔗 [LinkedIn](https://linkedin.com/in/simone-schneeberg) 📄 [Resume](http://www.sschneeberg.com/resume)
 </div>
