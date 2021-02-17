@@ -3,12 +3,17 @@
 
  ### <div align='center'> 💻 [Portfolio](http://sschneeberg.com) 🔗 [LinkedIn](https://linkedin.com/in/simone-schneeberg) 📄 [Resume](http://www.sschneeberg.com/resume) </div> ###
 
+### 👷‍♀️ Currently Building
+
+[Tracker App](https://periodtrackerapp.herokuapp.com) is moving from [web](https://github.com/sschneeberg/tracker-app) application to [mobile](https://github.com/sschneeberg/tracker-native). 
+
+
 <!--
 **sschneeberg/sschneeberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 👷‍♀️ I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
