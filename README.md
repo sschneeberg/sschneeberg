@@ -1,7 +1,7 @@
 
 # <div align='center'>Simone Schneeberg</div> #
 
- ### <div align='center'> 💻 [Portfolio](http://sschneeberg.com) 🔗 [LinkedIn](https://linkedin.com/in/simone-schneeberg) 📄 [Resume](http://www.sschneeberg.com/resume) </div> ###
+ ### <div align='center'> 💻 [LinkedIn](https://linkedin.com/in/simone-schneeberg) </div> ###
 
 ### 👷‍♀️ Currently Building
 
@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Currently Learning
 
-React Native, Ruby, Java
+Ruby, Vue
 
 ### 🙋‍♀️ About Me
 
@@ -17,11 +17,11 @@ I am an engineer, artist, and problem solver.  I've worked as a designer, carpen
 
 ### 👩‍🔧 Favorites
 
-*Languages:* HTML, CSS, JavaScript/Node, Python, SQL
+*Languages:* JavaScript/Node, Ruby, Python, SQL
 
-*Libraries&Frameworks:* React, Express, Flask, Socket.io
+*Libraries&Frameworks:* React, Express, Flask, Rails
 
-*Testing:* Mocha, Chai, Supertest
+*Testing:* Mocha, Chai, RSpec
 
 *Databases:* PostgreSQL, MongoDB, Mongo Atlas
 
